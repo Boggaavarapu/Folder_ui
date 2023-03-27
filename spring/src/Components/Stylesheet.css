@@ -1,0 +1,28 @@
+.primary{
+    color: rgb(31, 27, 27);
+    background-color:whitesmoke;
+    font-style: oblique;
+    font-size: small;
+    align-items: center;
+}
+.primary1{
+    color: rgb(97, 161, 37);
+    background-color:whitesmoke;
+    font-style: oblique;
+    font-size:larger;
+    align-items: center;
+}
+.bi bi-bag-fill{
+    size: 64px;
+}
+table, th, td {
+   
+    padding: 5px;
+  }
+  table {
+    border-spacing: 15px;
+    column-gap: 1000px;
+  }
+.a1{
+    text-decoration: none;
+}
